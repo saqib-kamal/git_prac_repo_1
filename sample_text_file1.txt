@@ -1,3 +1,6 @@
 Text in sample_text_file1
 this is the second line 
 This is the new texte
+Added Line 4
+
+Finished Feature in SAmple text file 1

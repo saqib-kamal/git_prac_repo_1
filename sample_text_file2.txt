@@ -1,3 +1,7 @@
 Text in sample_text_file2
 
 GIT REVERT SAMPLE text 2
+
+Added line 4
+
+Finished working on a feature, in sample text file 2
