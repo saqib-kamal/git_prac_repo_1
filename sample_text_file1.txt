@@ -1,1 +1,3 @@
 Text in sample_text_file1
+
+GIT REVERT SAMPLE TEXT FILE1 
