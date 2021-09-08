@@ -8,3 +8,5 @@ Added Line 4
 
 Finished Feature in SAmple text file 1
 
+Find changes done in a specific stash
+$ git stash show stash@{index}
