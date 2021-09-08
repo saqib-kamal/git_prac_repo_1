@@ -1,3 +1,6 @@
 Text in sample_text_file1
-DevOps with Jenkins Terraform AWS Docker Swarm Kubernetes GIT with DevOps Real-world Exercises
-This is the tird line
+
+
+this is the second line 
+This is the new texte
+
